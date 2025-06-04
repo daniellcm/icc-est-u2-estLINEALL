@@ -54,7 +54,6 @@ public class QueueG<Persona> {
     }
 
     public Persona findByName() {
-        NodeGeneric<Persona> rep = primero;
 
     }
 
